@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLab", "CoreLab\CoreLab.csproj", "{CC7DB4B8-F1E5-42E4-A26A-6461C12DF17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC7DB4B8-F1E5-42E4-A26A-6461C12DF17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7DB4B8-F1E5-42E4-A26A-6461C12DF17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7DB4B8-F1E5-42E4-A26A-6461C12DF17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7DB4B8-F1E5-42E4-A26A-6461C12DF17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
